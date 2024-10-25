@@ -6,13 +6,10 @@
 </head>
 
 <body>
-    <h1>PHP</h1>
+    <h1>Hide</h1>
 
     <?php
-
-
-
-?>
+    ?>
 
 </body>
 
